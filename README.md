@@ -57,7 +57,7 @@ If you use AutoAdv in your research, please cite our paper:
   title={AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models},
   author={Aashray Reddy and Andrew Zagula and Nicholas Saban},
   year={2025},
-  note={https://github.com/your-repo-link}
+  note={https://github.com/nicksaban20/AutoAdv}
 }
 ```
 
